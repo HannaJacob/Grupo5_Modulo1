@@ -10,7 +10,7 @@ Este projeto visa facilitar a administração e análise de dados acadêmicos de
 ### Índice
 
 - [Funcionalidades](#funcionalidades)
-- [Técnicas e tecnologias utilizadas](tecnicas-e-tecnologias-utilizadas)
+- [Técnicas e tecnologias utilizadas](#técnicas-e-tecnologias-utilizadas)
 
 
 ## 🔨 Funcionalidades
