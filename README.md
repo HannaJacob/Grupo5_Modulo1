@@ -1,6 +1,5 @@
-# Resilia - Modernização do Gerenciamento de Estrutura de Ensino
- <p align="center">  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
-</p>
+
+![Resilia Database](https://github.com/HannaJacob/Grupo5_Modulo1/assets/144841827/7a210b43-ae7c-4c2d-bbf0-1a0991f38786)
 
 Este script SQL foi desenvolvido como parte do esforço de modernização da Resilia, com o objetivo de aprimorar o armazenamento e a gestão de dados relacionados à estrutura de ensino da empresa. O código cria um banco de dados denominado "Resilia" e define tabelas essenciais para organizar informações sobre cursos, turmas, alunos, módulos, disciplinas, turnos, facilitadores e boletins.
 
