@@ -7,6 +7,12 @@ A estrutura do banco de dados busca superar os desafios associados ao armazename
 
 Este projeto visa facilitar a administração e análise de dados acadêmicos dentro da Resilia, contribuindo para uma gestão mais eficaz e informada da estrutura educacional da empresa.
 
+### Índice
+
+- [Funcionalidades](#funcionalidades)
+- [Técnicas e tecnologias utilizadas](tecnicas-e-tecnologias-utilizadas)
+
+
 ## 🔨 Funcionalidades
 :heavy_check_mark: `Funcionalidade 1` `Tabelas`:
   
