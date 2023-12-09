@@ -60,7 +60,7 @@ Utiliza o delimitador // para definir o final do comando em determinadas partes 
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](link-repositorio).
 
-## Licença
+## 📃 Licença
 
 Este projeto é distribuído sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
