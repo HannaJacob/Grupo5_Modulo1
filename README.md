@@ -1,17 +1,14 @@
 
 ![Resilia Database](https://github.com/HannaJacob/Grupo5_Modulo1/assets/144841827/7a210b43-ae7c-4c2d-bbf0-1a0991f38786)
-
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
 Este script SQL foi desenvolvido como parte do esforço de modernização da Resilia, com o objetivo de aprimorar o armazenamento e a gestão de dados relacionados à estrutura de ensino da empresa. O código cria um banco de dados denominado "Resilia" e define tabelas essenciais para organizar informações sobre cursos, turmas, alunos, módulos, disciplinas, turnos, facilitadores e boletins.
 
 A estrutura do banco de dados busca superar os desafios associados ao armazenamento disperso de dados em planilhas, proporcionando uma base consolidada e eficiente para a extração de informações estratégicas. Além disso, o script inclui um gatilho que registra automaticamente mudanças de status dos alunos, contribuindo para uma trilha de auditoria completa.
 
 Este projeto visa facilitar a administração e análise de dados acadêmicos dentro da Resilia, contribuindo para uma gestão mais eficaz e informada da estrutura educacional da empresa.
-
-### Índice
-
-- [Funcionalidades](#funcionalidades)
-- [Técnicas e tecnologias utilizadas](#técnicas-e-tecnologias-utilizadas)
-
 
 ## 🔨 Funcionalidades
 :heavy_check_mark: `Funcionalidade 1` `Tabelas`:
@@ -59,4 +56,12 @@ Utiliza o delimitador // para definir o final do comando em determinadas partes 
 ## :books: Técnicas e tecnologias utilizadas 
 
 - ``MySQL``
+
+## 📁 Acesso ao projeto
+Você pode acessar os arquivos do projeto clicando [aqui](link-repositorio).
+
+## Licença
+
+Este projeto é distribuído sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+
 
